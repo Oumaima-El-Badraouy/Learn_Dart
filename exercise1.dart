@@ -1,4 +1,4 @@
-
+//variables
 void main(){
   int age=20;
   double height=1.8;
